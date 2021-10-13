@@ -2,8 +2,27 @@ html, button, input, select, textarea
     {
         color: #444;
     }
-html 
-{ 
-    font-size: 1em;
-    line-height: 1.4;
+html { 
+        background-color: #777;
+        font-size: 1em;
+        line-height: 1.4;
+    }
+#wrapper {
+        max-width: 900px;
+        min-width: 320px;
+        margin: auto;
+}
+
+img {
+    float: right;
+    border: 1px;
+    width : 160px;
+    height: auto;
+}
+header {
+
+    background-color: #ccc;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
 }
