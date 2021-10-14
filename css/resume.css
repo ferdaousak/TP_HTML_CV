@@ -6,6 +6,7 @@ html {
         background-color: #777;
         font-size: 1em;
         line-height: 1.4;
+        font-family: 'Lobster', cursive;
     }
 #wrapper {
         max-width: 900px;
