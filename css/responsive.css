@@ -1,12 +1,22 @@
 @media only screen and (max-width: 740px) 
     {
-        #wrapper { background: #f77; }
+        #wrapper {  }
     }
 @media only screen and (max-width: 570px)
     {
-        #wrapper { background: #7f7; }
+        #wrapper { }
     }
 @media only screen and (max-width: 480px)
     {
-        #wrapper { background: #77f; }
+        #wrapper { width: 100%; }
+        header > img 
+            { 
+                float : none;
+                width: 40%;
+
+            }
+        h1, h2, h3 
+        {
+            text-align: center;
+        }
     }
